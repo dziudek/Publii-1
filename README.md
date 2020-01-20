@@ -1,6 +1,7 @@
 # Publii - Static-Site CMS
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/GetPublii/Publii/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdziudek%2FPublii-1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdziudek%2FPublii-1?ref=badge_shield)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GetPublii/Publii/graphs/commit-activity) [![OpenCollective](https://opencollective.com/publii/backers/badge.svg)](https://opencollective.com/publii/) ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
@@ -83,3 +84,6 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## License
 Copyright (c) 2018 TidyCustoms. General Public License v3.0, read [LICENSE](https://getpublii.com/license.html) for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdziudek%2FPublii-1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdziudek%2FPublii-1?ref=badge_large)
